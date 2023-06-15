@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:  'Open Sans', sans-serif;
+}
+
+.logo{
+    background-color: rgba(8, 8, 65, 0.921);
+    
+}
+#logo1{
+    color: brown;
+}
+.logo2{
+    margin-left: 5;
+}
+.btn{
+    background-color: brown;
+}
+.shopping-cart{
+    color:rgba(8, 8, 65, 0.921) ;
+}
+.search{
+    color:rgba(8, 8, 65, 0.921) ;
+}
+.navbar{
+    margin-left: 10;
+}
+.bg{
+    background-image: url('img/4.jpg');
+    height: 620px;
+    background-position: center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 160px;
+}
+.project-card{
+    background-color:rgba(8, 8, 65, 0.921) ;
+}
+#Property{
+    margin-left: 170px;
+}
+.bg1{
+    background-image: url("img/5.jpg");
+    height: 620px;
+    background-position: center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 160px;
+    
+}
+#img1{
+    width: 80px;
+    border-style: solid;
+    border-color: rgba(29, 108, 198, 0.921);
+   
+}
+.imgs{
+    margin-right: 20px;
+}
+.bg2{
+    background-image: url("img/6.jpg");
+    height: 620px;
+    background-position: center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 160px;
+}
+.bg3{
+    background-color:rgba(4, 4, 40, 0.921) ;
+}
+.bg4{
+    background-color: black;
+}
+.bg5{
+    background-image: url("img/4\ \(1\).jpg");
+    height: 620px;
+    background-position: center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 160px;
+}
